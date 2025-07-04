@@ -7,7 +7,7 @@ This project is a conversational AI assistant powered by Google's **Gemini 2.0 F
 - Interactive CLI chat with the AI Assistant
 - Powered by Gemini 2.0 Flash (OpenAI-compatible endpoint)
 - Uses context fetched dynamically via a custom `fetch_latest_info` module
-- Built with [Agents SDK](https://github.com/nnamu-cl/agents-sdk-course-2)
+- Built with Open AI Agents SDK for a seamless experience
 - Async architecture for smooth performance
 
 ---
