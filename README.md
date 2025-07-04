@@ -17,7 +17,7 @@ This project is a conversational AI assistant powered by Google's **Gemini 2.0 F
 - Python 3.9+
 - `openai`
 - `python-dotenv`
-- `agents-sdk` (from [Agents SDK GitHub](https://github.com/nnamu-cl/agents-sdk-course-2))
+- `open ai agents-sdk` 
 
 ---
 
